@@ -1,0 +1,12 @@
+#one{
+    background: url("http://misto-market.com.ua/turizm/images/89/7826/P1.jpg")no-repeat;
+    background-size: contain;
+}
+#two{
+   background: url("http://sunrise-agency.com.ua/content/images/resort_image/724985622.jpg")no-repeat;
+   background-size: auto;
+}
+.box{
+    width: 100%;
+    /*height: 25%;*/
+}
